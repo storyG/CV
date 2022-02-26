@@ -1,17 +1,17 @@
 body {
-  background-color: #f3f1f1;
+  background-color: #e7ecef;
 }
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: rgb(167, 167, 167);
+  border-color: #6096ba;
   border-width: 5px;
   height: 0px;
   width: 5%;
 }
 h1 {
-  color: #105c8f;
+  color: #274c77;
 }
 h3 {
-  color: #105c8f;
+  color: #274c77;
 }
